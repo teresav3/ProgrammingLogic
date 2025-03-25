@@ -13,17 +13,17 @@ class Program
         
         //Step 3
        
-        int myNum = 7;
-        Console.WriteLine(myNum);
+        int myfavNum = 7;
+        Console.WriteLine(myfavNum);
        
-        string myText = "C#";
-        Console.WriteLine(myText);
+        string myfavText = "C#";
+        Console.WriteLine(myfavText);
         
-        double myDoubleNum = 0.00;
-        Console.WriteLine (myDoubleNum);
+        double myprogramDoubleNum = 0.00;
+        Console.WriteLine (myprogramDoubleNum);
         
-        bool myBool = false;
-        Console.WriteLine(myBool);
+        bool myexpBool = false;
+        Console.WriteLine(myexpBool);
 
         //Step 5
 
