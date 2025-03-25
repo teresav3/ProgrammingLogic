@@ -16,14 +16,14 @@ class Program
         int myfavNum = 7;
         Console.WriteLine(myfavNum);
        
-        string myfavText = "C#";
-        Console.WriteLine(myfavText);
+        string myfavlangText = "C#";
+        Console.WriteLine(myfavlangText);
         
-        double myprogramDoubleNum = 0.00;
-        Console.WriteLine (myprogramDoubleNum);
+        double myexpDoubleNum = 0.00;
+        Console.WriteLine (myexpDoubleNum);
         
-        bool myexpBool = false;
-        Console.WriteLine(myexpBool);
+        bool myprogramBool = false;
+        Console.WriteLine(myprogramBool);
 
         //Step 5
 
